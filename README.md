@@ -19,9 +19,9 @@
 ### 💫 About Me
 
 - 🎓 **Education**: Currently pursuing a B.Tech in Electronics and Communication Engineering.
-- 📱 **Interests**: Designing and building native/cross-platform applications, digital logic design, and user interfaces.
+- 📱 **Interests**: App development, software designs, and digital logic design.
 - ⚙️ **Hardware Design**: Enthusiastic about microprocessors, digital circuits, and PCBs.
-- 🤝 **Collaboration**: Open to open-source contributions, software engineering projects, and app development.
+- 🤝 **Collaboration**: Open to open-source contributions and software engineering projects.
 
 ---
 
@@ -31,18 +31,13 @@
   <tr>
     <td valign="top" width="50%">
       <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Verilog-F37021?style=for-the-badge&logo=microchip&logoColor=white" alt="Verilog" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
     <td valign="top" width="50%">
-      <h4>🚀 Frameworks & Hardware Design</h4>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <h4>🚀 Hardware Design & Version Control</h4>
       <img src="https://img.shields.io/badge/KiCad-314C9F?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
